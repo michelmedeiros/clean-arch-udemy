@@ -1,2 +1,2 @@
-# clean-arch-udemy
+# clean-arch-java
 Projeto de Exemplo Clean Architecture em Java
