@@ -1,0 +1,8 @@
+package br.com.exemplo.cleanach.core.usecase;
+
+import br.com.exemplo.cleanach.core.domain.Customer;
+
+public interface UpdateCustomerUseCase {
+
+    void update(Customer customer, String cep);
+}

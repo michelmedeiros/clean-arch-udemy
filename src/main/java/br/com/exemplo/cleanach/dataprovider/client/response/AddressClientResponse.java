@@ -1,10 +1,9 @@
-package br.com.exemplo.cleanach.core.domain;
+package br.com.exemplo.cleanach.dataprovider.client.response;
 
 import lombok.Data;
 
 @Data
-public class Address {
-    private String id;
+public class AddressClientResponse {
     private String street;
     private String state;
     private String country;

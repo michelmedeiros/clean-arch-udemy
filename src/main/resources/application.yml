@@ -1,0 +1,9 @@
+gateway:
+  client:
+    address:
+      url: https://localhost:8082/address
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/cleanarch
